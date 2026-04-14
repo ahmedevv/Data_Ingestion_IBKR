@@ -1,0 +1,17 @@
+## Visual Studio Junk
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
+
+## Data & Logs (Crucial for a Trading Bot)
+*.csv
+*.log
+session_log.txt
+StockData/
+
+## OS Junk
+Thumbs.db
+Desktop.ini
