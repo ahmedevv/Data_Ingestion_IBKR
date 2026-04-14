@@ -1,0 +1,11 @@
+D:\Work - 2026\IBKR\API\API\obj\Debug\API.csproj.AssemblyReference.cache
+D:\Work - 2026\IBKR\API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+D:\Work - 2026\IBKR\API\API\bin\Debug\API.exe.config
+D:\Work - 2026\IBKR\API\API\bin\Debug\API.exe
+D:\Work - 2026\IBKR\API\API\bin\Debug\API.pdb
+D:\Work - 2026\IBKR\API\API\bin\Debug\CSharpAPI.dll
+D:\Work - 2026\IBKR\API\API\obj\Debug\API.csproj.Up2Date
+D:\Work - 2026\IBKR\API\API\obj\Debug\API.exe
+D:\Work - 2026\IBKR\API\API\obj\Debug\API.pdb
+D:\Work - 2026\IBKR\API\API\obj\Debug\API.MainForm.resources
+D:\Work - 2026\IBKR\API\API\obj\Debug\API.csproj.GenerateResource.cache
